@@ -22,10 +22,10 @@
 </div>
 <br/>
 
-本仓库收集了从Java EE到Jakarta EE，从**Java EE 5**到**Java EE 8**的几十种技术的JSR规范文档，来到这你再也不需要点来点去，全都满足你。推荐star or fork供自己使用
+本仓库收集了从Java EE到Jakarta EE，从**Java EE 5**到**Java EE 8**的几十种技术的JSR规范文档，来到这你再也不需要点来点去，一站式满足你。推荐star or fork供自己使用
 
 ## 配套文章
-技术专栏：- [点拨-Java EE](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MTUwOTgyOQ==&action=getalbum&album_id=1940957171895058444#wechat_redirect)
+技术专栏：[BATutopia-java-ee](https://github.com/yourbatman/BATutopia-java-ee)
 
 > Tips：更多小而美的技术专栏，可前往我的站点查看：[YourBatman的技术专栏](https://yourbatman.cn/columns/)，或者前往 [专栏大本营](https://github.com/yourbatman/tech-column-learning)
 
